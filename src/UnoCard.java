@@ -1,5 +1,3 @@
-package com.mycompany.uno;
-
 import java.util.PrimitiveIterator;
 
 public class UnoCard {
